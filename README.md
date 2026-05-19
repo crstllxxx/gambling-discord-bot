@@ -1,6 +1,6 @@
-# Discord Card Games Bot (Python)
+# Discord Gambling Games Bot (Python)
 
-Мини-бот для Discord на `discord.py` с мини-играми (блэкджек, crash, слоты, скачки) и общей внутриигровой валютой.
+бот для Discord на `discord.py` с играми (блэкджек, crash, слоты, гонки) и общей внутриигровой валютой.
 
 ## Что реализовано
 
